@@ -1,4 +1,4 @@
-name: My second Workflow
+name: My Third Workflow
 
 on: [workflow_dispatch, push]
 
